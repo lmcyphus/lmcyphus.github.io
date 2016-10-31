@@ -7,7 +7,7 @@ description: |
   Science tutoring from primary to A-level.  
   An online, interactive, and exciting approach making sciences easy and fun.  
   All from the comfort of your own home.
-owner: Fresh Look Tuiton # or company name
+owner: Fresh Look Tuition # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: freshlooktuition@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
